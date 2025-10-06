@@ -185,18 +185,15 @@ It’s not enough to just “know” how to code — you need to show you can sh
 This game rewards patience, visibility, and proof.
 
 
-
-Right now, Mathew’s LinkedIn profile looks inactive and incomplete — no work experience, no projects, no summary, and no visible proof of technical growth. 
-Recruiters don’t reach out to invisible candidates, even if they have skills. This section outlines how to completely rebuild his LinkedIn and portfolio presence to attract real internship opportunities.
-
 ---
+# LinkedIn Tips (For Faith to mention in meeting): 
 
 ## 🚀 1. Add a Strong “About” Section
 
 **Example:**
 > Aspiring Software Engineer passionate about building scalable web apps with React and Node.js. Currently completing the Fullstack Academy Software Engineering program while developing projects that bridge technology and business efficiency. Former operations lead with 5+ years of experience managing logistics and process optimization — now applying those analytical skills to software development.
 
-This tells a story, connects his past experience, and shows focus.
+This tells a story, connects past experience, and shows focus.
 
 ---
 
