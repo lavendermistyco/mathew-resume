@@ -7,7 +7,9 @@
 - 1 article about one of the best projects you've done and the design choices, the backend system communication diagrams (UML class diagram, system diagram): https://drawio-app.com/uml-diagrams/
 - Get recommendations from people who you worked with at the bootcamp (send them what you want them to say) and your jobs
 - Update ME when you are done!
-
+Communities:
+- https://www.blackinai.org/community
+- 
 
 ## 💡 Step 1: Rebrand His Goal
 Mathew should stop applying to full-time “junior dev” jobs for now and instead position himself as:
